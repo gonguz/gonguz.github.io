@@ -78,7 +78,7 @@ var credits = {
                                     this.game.world.centerY,
                                     'credits');
     creditsBackground.anchor.setTo(0.5, 0.5);
-    creditsBackground.scale.setTo(1,0.75);
+    creditsBackground.scale.setTo(1,0.86);
 
     var menuButton = this.game.add.button(this.game.world.centerX - 70,
                                            this.game.world.centerY * 1.5,
